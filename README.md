@@ -1,9 +1,9 @@
 <h1 align="center">👋 Olá, meu nome é Paulo Vinícius.</h1>
 <h3 align="center">Sou um estudante de programação, apaixonado por tecnologia. Atualmente focado em desenvolvimento web.</h3>
 
-- 🌱 Eu atualmente estou aprendendo **HTML, CSS e Javascript**
+<p align="center">- 🌱 Eu atualmente estou aprendendo **HTML, CSS e Javascript**</p>
 
-- 📫 Como me encontrar **pauloviniciusoliveiradacosta96@gmail.com**
+<p align="center">- 📫 Como me encontrar **pauloviniciusoliveiradacosta96@gmail.com**</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
