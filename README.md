@@ -1,9 +1,9 @@
-<h1 align="center">Olá, meu nome é Paulo Vinícius.</h1>
+<h1 align="center">👋 Olá, meu nome é Paulo Vinícius.</h1>
 <h3 align="center">Sou um estudante de programação, apaixonado por tecnologia. Atualmente focado em desenvolvimento web.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paulo-phb&label=Profile%20views&color=0e75b6&style=flat" alt="paulo-phb" /> </p>
+- 🌱 Eu atualmente estou aprendendo **HTML, CSS e Javascript**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paulo-phb" alt="paulo-phb" /></a> </p>
+- 📫 Como me encontrar **pauloviniciusoliveiradacosta96@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
