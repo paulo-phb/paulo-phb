@@ -16,5 +16,3 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulo-phb&show_icons=true&locale=en&layout=compact" alt="paulo-phb" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paulo-phb&show_icons=true&locale=en" alt="paulo-phb" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paulo-phb&" alt="paulo-phb" /></p>
